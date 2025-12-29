@@ -52,10 +52,14 @@ repo/
 **Algorithm**
 
 1️⃣ Initialize → Create repo
+
 2️⃣ Add → Register file + compute hash
+
 3️⃣ Commit →
 Store file snapshot → create linked list node
+
 4️⃣ Log → Traverse linked list
+
 5️⃣ Rollback → Move HEAD pointer & restore files
 
 **Output**
@@ -77,5 +81,6 @@ Space Complexity → O(n)
 
 Mini Git successfully demonstrates how version control works internally using fundamental data structures.
 It is an excellent DSA + System project with strong real-world relevance.
+
 
 
