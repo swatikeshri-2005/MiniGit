@@ -1,4 +1,4 @@
-                                        /*Title/*
+  **Title**
 
 Mini Git - Version Control System Using Data Structures
 
@@ -77,4 +77,5 @@ Space Complexity → O(n)
 
 Mini Git successfully demonstrates how version control works internally using fundamental data structures.
 It is an excellent DSA + System project with strong real-world relevance.
+
 
