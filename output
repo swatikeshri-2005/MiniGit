@@ -1,0 +1,61 @@
+PS C:\Users\user\Minigit> cd "c:\Users\user\Minigit\" ; if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
+Mini Git - Version Control System
+
+1. init
+2. add
+3. commit
+4. log
+5. rollback
+6. exit
+Choose: 1
+A subdirectory or file repo already exists.
+The syntax of the command is incorrect.
+Repository initialized successfully!
+
+1. init
+2. add
+3. commit
+4. log
+5. rollback
+6. exit
+Choose: 2
+Enter filename: repo/index.txt
+File added successfully.
+
+1. init
+2. add
+3. commit
+4. log
+5. rollback
+6. exit
+Choose: 3
+Enter commit message: first version
+Commit created successfully!
+
+1. init
+2. add
+3. commit
+4. log
+5. rollback
+6. exit
+Choose: 4
+Commit #1 - first version (Mon Dec 29 12:58:35 2025)
+
+1. init
+2. add
+3. commit
+4. log
+5. rollback
+6. exit
+Choose: 5
+Enter version: 1
+Rolled back to commit 1 successfully!
+
+1. init
+2. add
+3. commit
+4. log
+5. rollback
+6. exit
+Choose: 6
+PS C:\Users\user\Minigit>
